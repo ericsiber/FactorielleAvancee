@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ericsiber/FactorielleAvancee.svg?branch=init)](https://travis-ci.org/ericsiber/FactorielleAvancee)
+[![Build Status](https://travis-ci.org/ericsiber/FactorielleAvancee.svg?branch=etape2)](https://travis-ci.org/ericsiber/FactorielleAvancee)
 
 # Factorielle Avancée
 
