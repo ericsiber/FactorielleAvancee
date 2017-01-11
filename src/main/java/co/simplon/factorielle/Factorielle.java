@@ -11,7 +11,7 @@ public class Factorielle
     		super();
     }
     
-    public long calculer(long n) throws FactorielleUnavailableException {
+    public long calculer(long n) {
     		if (n > 1) {
     			long resultatNMoins1 = calculer(n-1);
     			long resultatN = n * resultatNMoins1;
