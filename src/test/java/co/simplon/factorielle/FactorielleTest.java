@@ -95,4 +95,9 @@ public class FactorielleTest {
 		assertThat(resultat == resultatAttendu, is(true));
 	}
 
+	@Test(expected = UnsupportedOperationException.class)
+	public void factorielle_de_50_doit_renvoyer_une_UnsupportedOperationException() {
+		factorielle.calculer(50);
+	}
+
 }
