@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/simplon-promo-pe-1/FactorielleAvancee.svg?branch=init)](https://travis-ci.org/simplon-promo-pe-1/FactorielleAvancee)
+[![Build Status](https://travis-ci.org/ericsiber/FactorielleAvancee.svg?branch=init)](https://travis-ci.org/ericsiber/FactorielleAvancee)
 
 # Factorielle Avancée
 
